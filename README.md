@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/ecac654c-cb69-4a0c-9321-8d4109041203
 - Graphical Reports for Business Growth: The system generates interactive reports displaying statistics on feedback categories. Helps the company analyze customer satisfaction trends and take necessary actions for growth.
 
 ## Tech Stack 🛠️
-- React.js , TypeScript, HTML ,Tailwind CSS
+- React.js , MongoDB , Node.js , Express.js
 
 ## Short Description / Conclusion 📌
 Developed a feedback management system with real-time tracking and graphical reports. Enhanced transparency and provided actionable insights through interactive reports.
